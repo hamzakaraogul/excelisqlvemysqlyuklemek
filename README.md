@@ -1,5 +1,5 @@
 # excelisqlvemysqlyuklemek
-Exceli Sql ve Mysql'le yüklemek.
+Exceli Sql ve Mysql'le yüklemek.https://youtu.be/OINBdxpfVaM
 <br>
 Öncelikle Microsoft Sql Server Management Studio'ya giriyoruz.
 <br>
