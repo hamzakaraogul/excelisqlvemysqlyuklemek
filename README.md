@@ -89,10 +89,65 @@ Ayrı bir kimlik oluşturmadığım için windows doğrulaması ile devam ediyor
 <br>
 Sonraki, sonraki, son diyerek işlemi bitiriyoruz.
 <br>
-![image](https://user-images.githubusercontent.com/62428397/183649137-f373e46a-4cfb-416d-9991-cb968a67234b.png)
-![image](https://user-images.githubusercontent.com/62428397/183649233-910ae0f4-9661-44e1-aa7a-31cf672388e1.png)
+<img src="https://user-images.githubusercontent.com/62428397/183649137-f373e46a-4cfb-416d-9991-cb968a67234b.png">
+<br>
+<img src="https://user-images.githubusercontent.com/62428397/183649233-910ae0f4-9661-44e1-aa7a-31cf672388e1.png">
+<br>
+MYSQL'e döndüğümüzde next'e basarak devam ediyoruz.
+<br>
+<img src="https://user-images.githubusercontent.com/62428397/183649528-d8dca185-104a-4a1b-8fd4-07f707c30b34.png">
+<br>
+Target kısmında birşey yapmadan devam ediyoruz.
+<br>
+<img src="https://user-images.githubusercontent.com/62428397/183649663-5a470e14-4f72-467b-b33f-e7c255c6f494.png">
+<br>
+Aşağıdaki gibi sonuç verecektir devam ediyoruz.
+<br>
+<img src="https://user-images.githubusercontent.com/62428397/183649807-e052e265-8f60-41e1-95b4-9934ba9a13cb.png">
+<br>
+Yüklenecek yeri Test Databasini seçtim ve devam ediyoruz.
+<br>
+<img src="https://user-images.githubusercontent.com/62428397/183650030-95f71e63-9909-4954-bd10-6eca5bf83126.png">
+<br>
+Yüklenecek tabloları bize gösterecek ve devam ediyoruz.
+<br>
+<img src="https://user-images.githubusercontent.com/62428397/183650237-e6142475-c1c0-4167-ae1d-b7a6eb5c7e35.png">
+<br>
+Birşey yapmadan devam ediyoruz.
+<br>
+<img src="https://user-images.githubusercontent.com/62428397/183650366-3c5b5bc8-f13f-4ed7-9f66-7e6f85ccb80e.png">
+<br>
+Birşey yapmadan devam ediyoruz.
+<br>
+<img src="https://user-images.githubusercontent.com/62428397/183650484-27d67a1f-9a34-4085-a0a3-fac792f376b0.png">
+<br>
+Birşey yapmadan devam ediyoruz.
+<br>
+<img src="https://user-images.githubusercontent.com/62428397/183650554-2993d2bb-e06e-4aa8-a7e3-edfeacff06fc.png">
+<br>
+Devam ediyoruz.
+<br>
+<img src="https://user-images.githubusercontent.com/62428397/183650637-296481b9-e40f-4762-8df4-eba6a6cd377c.png">
+<br>
+Devam ediyoruz.
+<br>
+<img src="https://user-images.githubusercontent.com/62428397/183650713-992b2e13-155e-4209-8f41-bba88a949b13.png">
+<br>
+Devam ediyoruz.
+<br>
+<img src="https://user-images.githubusercontent.com/62428397/183650750-7e2860ac-17f0-4299-86c8-2df015262eb7.png">
+<br>
+Devam ediyoruz.
+<br>
+<img src="https://user-images.githubusercontent.com/62428397/183650823-d187c2be-78d3-4261-9057-b41938c0133c.png">
+<br>
+işlem bitmiştir.
+<br>
+<img src="https://user-images.githubusercontent.com/62428397/183650926-51a4fc5f-fc34-4177-9847-41b011884950.png">
+<br>
+<img src="https://user-images.githubusercontent.com/62428397/183651186-00d595c2-f9d2-44e0-96a3-d86e4de7f388.png">
 
-
+<br>
 
 
 
